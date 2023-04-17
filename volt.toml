@@ -1,0 +1,8 @@
+name = "marge"
+version = "0.1"
+display-name = "Marge"
+author = "Jalkhov"
+description = "A soft theme inspired in Mariana from Sublime Text 4"
+repository = "https://github.com/Jalkhov/marge"
+icon = "icon.png"
+themes = ["theme.toml"]
